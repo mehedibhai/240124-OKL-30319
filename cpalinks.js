@@ -1,6 +1,6 @@
-var gpl30 = "https://aff.bdoffers.tech/?utm_medium=bcb18495bac4aa6c423b12c0efe57bf06ae42885&utm_campaign=mehedigpx";
-var bll30 = "https://aff.bdoffers.tech/?utm_medium=ff131f586807a234b77b1e356b0675fcd172ddc6&utm_campaign=mehediblx";
-var robil30 = "https://aff.bdoffers.tech/?utm_medium=69a10fd140bd5f02bd961e28039909675b56e2ab&utm_campaign=mehediarxx";
-var airtel30 = "https://aff.bdoffers.tech/?utm_medium=69a10fd140bd5f02bd961e28039909675b56e2ab&utm_campaign=mehediarxx";
-var gpl300 = "https://aff.bdoffers.tech/?utm_medium=bcb18495bac4aa6c423b12c0efe57bf06ae42885&utm_campaign=mehedigpx";
-var bll300 = "https://aff.bdoffers.tech/?utm_medium=ff131f586807a234b77b1e356b0675fcd172ddc6&utm_campaign=mehediblx";
+var gpl30 = "https://olkiju.com/cl/f447f033c0163378?p1=&p2=&source=facebook&site=faruk gp.1";
+var bll30 = "https://olkiju.com/cl/533e1ad609625c23?p1=&p2=&source=facebook&site=faruk bl.1";
+var robil30 = "https://olkiju.com/cl/93b964b9a9af351c?p1=&p2=&source=facebook&site=faruk robi.1";
+var airtel30 = "https://olkiju.com/cl/986b8310be8de79a?p1=&p2=&source=facebook&site=faruk artel.1";
+var gpl300 = "https://olkiju.com/cl/f447f033c0163378?p1=&p2=&source=facebook&site=faruk gp.1";
+var bll300 = "https://olkiju.com/cl/533e1ad609625c23?p1=&p2=&source=facebook&site=faruk bl.1";
