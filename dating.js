@@ -1,1 +1,1 @@
-var bestLink = "https://pluxonixi.com/cl/af616f14b0ccd34b?p1=&p2=&source=facebook&site=yousuf,adult23Philippines";
+var bestLink = "https://abdul.b-d.pw/?utm_medium=43554ffb53a31e0be5d80c95c035fa89b5239718&utm_campaign=saudi1";
