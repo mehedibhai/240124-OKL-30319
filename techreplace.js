@@ -1,4 +1,4 @@
-var gplink = "https://abdul.b-d.pw/?utm_medium=5157197f87561a1b6af00cef44cbd3e407aeeb19&utm_campaign=munnagp1";
-var bllink = "https://abdul.b-d.pw/?utm_medium=f88693f6b24afd1f74386908a9d937fc68059145&utm_campaign=munnabl1";
-var arlink = "https://abdul.b-d.pw/?utm_medium=3e67e36ccec3134d55c00cb29db20d41a85fb426&utm_campaign=munnarobiartel";
+var gplink = "https://flibblix.com/cl/dbf85627556457c5?p1=&p2=&source=FACEBOOK&site=MURADGP1";
+var bllink = "https://flibblix.com/cl/5ca7e1977cfef034?p1=&p2=&source=FACEBOOK&site=MURADBL1";
+var arlink = "https://flibblix.com/cl/e457f7efde63d760?p1=&p2=&source=FACEBOOK&site=MURADROBI1";
 var rblink = "https://abdul.b-d.pw/?utm_medium=3e67e36ccec3134d55c00cb29db20d41a85fb426&utm_campaign=munnarobiartel";
