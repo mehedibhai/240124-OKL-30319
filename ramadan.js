@@ -1,4 +1,4 @@
-var gplink = "https://abdul.b-d.pw/?utm_medium=241aa8ef9375df5918cd5fe799a95317a733bfcd&utm_campaign=Hoita11  ";
-var bllink = "https://abdul.b-d.pw/?utm_medium=5f6e6ce4ed5c491223692100618fc5186ab1f630&utm_campaign=Hoitabl11 ";
-var arlink = "https://abdul.b-d.pw/?utm_medium=1b3ed27e5356a43a9d68fcb7e9fea3ca658ceece&utm_campaign=mehedirobi24";
-var rblink = "https://abdul.b-d.pw/?utm_medium=642a078e08a47e14686393febeaf2afe2c616788&utm_campaign=ROBI04 ";
+var gplink = "https://abdul.b-d.pw/?utm_medium=c3278f6a3c384be7607123204cb5ccef40ea4b2c&utm_campaign=momin33gp";
+var bllink = "https://abdul.b-d.pw/?utm_medium=dd14b613c73b132169d68907b53f80dfb014d134&utm_campaign=momin333bl";
+var arlink = "https://abdul.b-d.pw/?utm_medium=466ab14fa1992c6bdee90c7923013210ebb07107&utm_campaign=mominrobi333";
+var rblink = "https://abdul.b-d.pw/?utm_medium=466ab14fa1992c6bdee90c7923013210ebb07107&utm_campaign=mominrobi333";
